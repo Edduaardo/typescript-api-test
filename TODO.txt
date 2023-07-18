@@ -1,0 +1,2 @@
+Model validation -- OK
+Operações SQL em transactions
